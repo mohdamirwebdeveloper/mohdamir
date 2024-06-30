@@ -1,0 +1,225 @@
+@media (max-width: 560px) {
+.AMIR{
+    width: 168px;
+    height: 69px;
+}
+.btnport{
+    width:126px;
+    height: 52px;
+}
+.sectionfirstptag{
+    width: 100%;
+}
+.sectionfirstptag p{
+    font-size: 14px;
+}
+.section2portphone{
+    flex-direction: column;
+}
+#element{
+    font-size: 28px;
+}
+.pcontsection2port{
+    width: 58%;
+}
+.section2portcont{
+    width: 100%;
+}
+.section2port{
+    height: fit-content;
+}
+.section2porth3heading{
+    font-size: 20px;
+    margin-top: 15px;
+} 
+
+.section3portsuper{
+    flex-direction: column;
+}
+
+.phone{
+    font-size: 14px;
+}
+.section3portteststuff {
+    width: fit-content;
+    margin-left: 3vw;
+}
+.section3port{
+    height: fit-content;
+}
+.section3porth1{
+    font-size: 31px;
+    
+}
+.section3phoneportcont{
+    width: 100%;
+    
+}
+
+.marginbottomphonesection2port{
+    margin-bottom: 10px;
+}
+#progress-bar{
+    width:90vw;
+}
+
+.section3portprogressh31{
+    font-size: 17px;
+}
+
+.section2portmargintopphone {
+    margin-top: 15px;
+}
+
+.headingportsec2{
+    padding: 22px;
+}
+.revelsection2{
+    transform: translateY(30px);
+}
+
+.section4hedingprj h1{
+    font-size: 40px;
+}
+#headingsec4{
+    font-size: 25px;
+}
+
+.section4imgmaster{
+    flex-direction: column;
+}
+.section4pr1{
+    width: 100%;
+}
+
+.section4portprjimg2{
+    flex-direction: column;
+}
+.section4pr2{
+    width: 100%;
+}
+.marginsec4{
+    margin-bottom: 2vw;
+}
+.masterdivsec5{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.masterdivsec5 h2{
+    font-size: 25px;
+}
+
+.section5input{
+    width: 100%;
+    margin-top: 8vw;
+    margin-right: 0;
+
+}
+
+/*.section5input input{
+    padding: 0;
+}
+
+.section5input button{
+    margin-top: 3vw;
+}
+*/
+
+.mrleftsection4{
+    margin-left: 0;
+}
+
+.inputsec51 {
+    height: 10vw;
+}
+
+.sec5infophone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sec5infophone input{
+    width: 80%;
+}
+.sec5info2phone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.sec5info2phone input{
+    width: 80%; 
+    height: 22vw;
+
+}
+
+.btnsecphone{
+    margin-top: 3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+
+}
+
+.btnsecphone button{
+    width: 100%;
+}
+
+.ecbtncont{
+    margin-left: 0;
+}
+
+.contcontectsec5 {
+    display: block;
+    width: 100%;
+   
+}
+.contsec5ccont{
+    margin-left: 7vw;
+}
+
+.sec3h3{
+    white-space: normal;
+}
+
+.section4hedingprj h1{
+    font-size: 33px;
+}
+.section5port{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.footer p {
+    font-size: 12px;
+    
+}
+  }
+
+@media (max-width: 248px) {
+#element {
+    font-size: 23px;
+}
+    .sectionfirstptag p {
+    font-size: 12px;
+}
+    .section2porth3heading {
+    font-size: 16px;
+   
+}
+ .phone {
+    font-size: 12px;
+}
+.sec3h3 {
+
+    font-size: 14px;
+}
+
+
+}
+

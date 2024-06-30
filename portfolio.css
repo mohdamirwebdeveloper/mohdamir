@@ -1,0 +1,392 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+
+.sectionfirst {
+    height: 100vh;
+    width: 100%;
+    background-image: url("developer.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+.AMIR {
+    border: 2px solid #D43F52;
+    border-radius: 5px;
+    width: 224px;
+    height: 93px;
+    margin-top: 30vh;
+    letter-spacing: 6px;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 17px;
+    
+}
+
+.AMIR b {
+    color: #D43F52;
+}
+
+#element {
+    color: white;
+    margin-top: 30px;
+    font-size: 36px;
+
+}
+
+.sectionfirstptag {
+    margin: 0vh 30vh;
+    text-align: center;
+    width: 85vh;
+    opacity: 0.8;
+    margin-top: 10px;
+}
+
+.section2port {
+    width: 100%;
+    height: 70vh;
+    background-color: rgb(37, 38, 40);
+}
+
+.btnport {
+    background-color: transparent;
+    border: 2px solid #e8e8ef;
+    width: 168px;
+    height: 69px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 5vh;
+    transition: 0.8s;
+    cursor: pointer;
+}
+
+.btnport:hover {
+    background-color: #D43F52;
+    border: #D43F52;
+}
+
+.section3port {
+    width: 100%;
+    height: 60vh;
+    background-color: black;
+}
+
+.headingportsec2 {
+    padding: 65px;
+    font-size: 30px;
+}
+
+.portskills {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    border: 2px solid white;
+    transition: 0.8s;
+}
+
+.portskills img {
+    width: 34px;
+    height: 34px;
+}
+
+.portskills:hover {
+    background-color: #ffffff;
+}
+
+.section2portcont {
+    width: 33%;
+    
+
+}
+
+.pcontsection2port {
+    width: 25vw;
+    margin-left: 15px;
+}
+
+.opesity8 {
+    opacity: 0.7;
+}
+
+.section2porth3heading {
+    margin-bottom: 10px;
+}
+
+#progress-bar {
+    width: 400px;
+    height: 8px;
+    background-color:  rgb(37, 38, 40);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#progress {
+    height: 100%;
+    background-color: #D43F52;
+    border-radius: 5px;
+    width: 80%;
+}
+.section3portteststuff{
+    margin-left: 10vw;
+}
+
+
+.section3porth1{
+    margin-top: 10vh;
+    font-weight: bold;
+    font-size: 56px;
+}
+
+.section3porth2{
+    margin-top: 5vh;
+    color: #D43F52;
+}
+
+.section3portp{
+    margin-top: 5vh;
+    line-height: 1.9;
+}
+
+.section3portprogressh3{
+    margin-top: 10vh;
+    margin-bottom: 5px;
+}
+.section3portprogressh31{
+    margin-bottom: 5px;
+}
+
+
+.sectonport4{
+    width: 100%;
+    height: fit-content;
+    background-color:  rgb(37, 38, 40);
+}
+
+.revelsection2{
+    position: relative;
+    transform: translateY(150px);
+    opacity: 0;
+    transition: all 2s ease;
+}
+
+.revelsection2.active{
+    transform: translateY(0);
+    opacity: 1;
+}
+
+.section4pr1{
+    width: 25vw;
+    
+
+}
+.section4pr1 img{
+    width: 100%;
+    height: 100%;
+
+}
+
+.section4hedingprj{
+    padding: 50px;
+    font-size: 48px;
+    
+
+}
+
+.section4pr2{
+    width: 40vw;
+    overflow: hidden;
+}
+
+.section4pr2 img{
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s ease-in-out;
+
+
+}
+.section4pr2 img:hover{
+    transform: scale(1.2);
+}
+
+.section4pr1{
+    overflow: hidden;
+}
+.section4pr1 img{
+    transition: transform 0.5s ease-in-out;
+
+}
+
+.section4pr1 img:hover{
+    transform: scale(1.2);
+
+}
+
+
+.section4portprjimg2{
+    margin-top: 3vw;
+}
+
+.mrleftsection4{
+    margin-left: 10px;
+
+}
+.mrrighttsection4{
+    margin-right: 10px;
+}
+
+#headingsec4{
+    font-size: 50px;
+    padding: 20px;
+    
+    
+}
+
+.perasec4cont{
+    display: flex;
+    flex-direction: column;
+}
+
+
+#perasec4,
+#pera2sec4{
+    padding: 10px;
+    opacity: 0.7;
+    line-height: 1.5;
+    flex-basis: 50%; /* Set the height of each row */
+  margin-bottom: 10px;
+}
+
+
+.section5port{
+    width: 100%;
+    margin-top: 3rem;
+    background-color:black;
+}
+
+.contsection4hedingprj{
+    border: 2px solid white;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.inputsec5{
+    background-color: transparent;
+    border: 2px solid #999;
+    color: white;
+
+}
+
+.masterdivsec5{
+    padding-top:3vw ;
+    width: 100%;
+}
+
+.contcontectsec5{
+ justify-content: center;
+}
+
+.margintopsec4contect{
+    
+    width: 50px;
+    height: 50px;
+}
+
+.sec5sizeimg{
+    width: 25px;
+    height: 25px;
+}
+
+.portskillssec5 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid white;
+    transition: 0.8s;
+}
+
+.portskills img {
+    width: 34px;
+    height: 34px;
+}
+.algncenter{
+align-items: center;
+}
+
+.mrsec5{
+    margin-top: 20px;
+}
+
+.sec5h5cont{
+    margin-left: 10px;
+}
+
+.sec3h3{
+    color: #999;
+}
+
+.inputsec51{
+ height: 3vw;
+ margin-bottom: 1vw;
+ padding: 10px;
+
+}
+
+.width100{
+    width: 100%;
+}
+
+.section5input{
+    margin-right:5vw;
+}
+
+.inputsec52{
+    height: 8vw;
+    padding: 10px;
+}
+
+.btnsec5{
+padding: 15px;
+ background-color: #D43F52;
+ border: #D43F52;
+ color: white;
+ transition: transform 0.5s ease-in-out;
+ font-size: 15px;
+ font-weight: bold;
+ cursor: pointer;
+}
+
+.btnsec5:hover{
+   
+    transform: scale(1.2);
+
+    
+}
+.ecbtncont{
+    margin-left: 16px;
+    margin-top: 1vw;
+    overflow: hidden  ;
+
+}
+
+.footer{
+    margin-top: 10vw;
+    color: #999;
+    background-color:black;
+    margin-bottom: 5vw;
+}
+
+.IG{
+    font-size: 15;
+    color: #747874;
+    text-decoration: none;
+    
+}
