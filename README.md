@@ -19,10 +19,9 @@ My portfolio is optimized for performance, accessibility, best practices, and SE
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, vanilla JavaScript, 
 - **Styling**: Tailwind CSS, NativeWind
-- **Backend**: Node.js, Express
-- **Hosting**: Netlify
+- **Hosting**: Github pages
 
 ## 📫 Contact
 
