@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This is where I showcase my projects, skills, 
 
 ## 🚀 Demo
 
-![Portfolio Demo](./Screenshot 2024-08-17 220545.png)
+![Portfolio Demo](./demo.png)
 
 ## 🌟 Google Lighthouse Score
 
@@ -15,7 +15,7 @@ My portfolio is optimized for performance, accessibility, best practices, and SE
 - **Best Practices**: 100
 - **SEO**: 91
 
-![Google Lighthouse Score](./Screenshot 2024-08-17 220807.png)
+![Google Lighthouse Score](./score.png)
 
 ## 🛠️ Technologies Used
 
